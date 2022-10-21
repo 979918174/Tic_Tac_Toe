@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\979918174\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\979918174\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Tic_Tac_Toe.-1720443194.00" t="ExcludeRecursive" />
+    <e p="E:\ORII\Tic_Tac_Toe" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Common" t="Include">
+            <e p="ArrayHelper.cs" t="Include" />
+            <e p="EnumType.cs" t="Include" />
+            <e p="EventManager.cs" t="Include" />
+            <e p="MonoSingleton.cs" t="Include" />
+          </e>
+          <e p="Event" t="Include">
+            <e p="CallBack.cs" t="Include" />
+            <e p="EventCenter.cs" t="Include" />
+            <e p="EventType.cs" t="Include" />
+          </e>
+          <e p="FSM" t="Include">
+            <e p="Common" t="Include">
+              <e p="FSMStateID.cs" t="Include" />
+              <e p="FSMTriggerID.cs" t="Include" />
+            </e>
+            <e p="FSMBase.cs" t="Include" />
+            <e p="FSMState.cs" t="Include" />
+            <e p="FSMTrigger.cs" t="Include" />
+            <e p="States" t="Include">
+              <e p="AIMoveState.cs" t="Include" />
+              <e p="GameInitState.cs" t="Include" />
+              <e p="GameOverState.cs" t="Include" />
+              <e p="PlayerMoveState.cs" t="Include" />
+            </e>
+            <e p="Triggers" t="Include">
+              <e p="AITurnTrigger.cs" t="Include" />
+              <e p="PlayerTurnTrigger.cs" t="Include" />
+              <e p="SomeoneWinTrigger.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Logic" t="Include">
+            <e p="Grid.cs" t="Include" />
+            <e p="NormalTTT.cs" t="Include" />
+            <e p="TTTAI.cs" t="Include" />
+          </e>
+          <e p="View" t="Include">
+            <e p="AIButton.cs" t="Include" />
+            <e p="ButtonViewGroup.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="OrderButton.cs" t="Include" />
+            <e p="Tips.cs" t="Include" />
+            <e p="ViewButton.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="Tic_Tac_Toe.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8193fb5d-c114-40ed-bbce-afb4725c7498" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/States/GameOverState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/States/PlayerMoveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/93/7492113b/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/Triggers/AITurnTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/Triggers/PlayerTurnTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Event/EventCenter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Event/CallBack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/Common/FSMStateID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/EnumType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/Common/FSMTriggerID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Event/EventType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/TTTAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Logic/NormalTTT.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/FSMTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/FSMState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/FSMBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/de/1e53ecf5/AttributeUsageAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/Triggers/SomeoneWinTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/6c/d2ab442e/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/MonoSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/View/ViewButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/ArrayHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/84/11ddb6a3/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/States/AIMoveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FSM/States/GameInitState.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tic_Tac_Toe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TTTAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Emn.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Event/EventCenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/States/Attacking_MoveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/States/Attacking_StandState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NormalTTT.cs" />
+        <option value="$PROJECT_DIR$/Assets/ViewButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnumType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/Common/FSMTriggerID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/FSMBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/ArrayHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/Common/FSMStateID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/Triggers/AITurnTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/Triggers/PlayerTurnTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/FSMTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/FSMState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/ViewButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/States/GameInitState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/EnumType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Event/EventType.cs" />
+        <option value="$PROJECT_DIR$/Assets/OrderButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/ButtonViewGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/AIButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/States/AIMoveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/States/PlayerMoveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/View/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tips.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/States/GameOverState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FSM/Triggers/SomeoneWinTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/NormalTTT.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/TTTAI.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GLOJqkTg8CbZgyv8ifgnSTlFI7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8193fb5d-c114-40ed-bbce-afb4725c7498" name="Default Changelist" comment="" />
+      <created>1666164329226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666164329226</updated>
+      <workItem from="1666164332657" duration="17840000" />
+      <workItem from="1666230713079" duration="48751000" />
+      <workItem from="1666316679406" duration="2215000" />
+      <workItem from="1666320090272" duration="371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.bottom/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.0.center" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.center/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.0.left" timestamp="1666294283100">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.left/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283100" />
+    <state width="2517" height="491" key="GridCell.Tab.0.right" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.0.right/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.1.center" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.center/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.1.left" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.left/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.1.right" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.1.right/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.2.bottom" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.2.bottom/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.2.center" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.2.center/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.2.left" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.2.left/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.2.right" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.2.right/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.3.bottom" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.3.bottom/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.3.center" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.3.center/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.3.left" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.3.left/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+    <state width="2517" height="491" key="GridCell.Tab.3.right" timestamp="1666294283101">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="491" key="GridCell.Tab.3.right/0.0.2560.1400/-2560.9.2560.1400@0.0.2560.1400" timestamp="1666294283101" />
+  </component>
+</project>
